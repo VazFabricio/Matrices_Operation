@@ -1,0 +1,3 @@
+D:/OperacoesMatrizes/cmake-build-debug/CMakeFiles/OperacoesMatrizes.dir
+D:/OperacoesMatrizes/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/OperacoesMatrizes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
